@@ -72,7 +72,7 @@
     },
     "ntp": {
         "enabled": true,
-        "server": "time.apple.com",
+        "server": "ntp.aliyun.com",
         "server_port": 123,
         "interval": "30m",
         "detour": "DIRECT"
@@ -82,7 +82,7 @@
             "type": "mixed",
             "tag": "mixed-in",
             "listen": "0.0.0.0",
-            "listen_port": 2080
+            "listen_port": 11111
         },
         {
             "type": "tun",
