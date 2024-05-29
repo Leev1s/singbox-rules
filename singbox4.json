@@ -50,7 +50,8 @@
                     "geolocation-!cn"
                 ],
                 "query_type": [
-                    "A"
+                    "A",
+                    "AAAA"
                 ],
                 "server": "dns_fakeip"
             },
