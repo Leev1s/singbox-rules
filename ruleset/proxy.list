@@ -1,0 +1,16 @@
+# Proxy
+
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,ping.pe
+DOMAIN-SUFFIX,nnr.moe
+DOMAIN-SUFFIX,koyeb.com
+DOMAIN-SUFFIX,yandex.net
+DOMAIN-SUFFIX,yandex.net
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,qyapi.weixin.qq.com
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,xiaoya.pro
+DOMAIN-SUFFIX,brew.sh
+DOMAIN-SUFFIX,momentumdash.com
+IP-CIDR,172.22.22.0/24,no-resolve
